@@ -11,7 +11,6 @@ opts.headless = True
 
 
 # getting weird issues with networking so use following boilerplate to make it work
-# not sure if this is potentially a security issue lol
 
 import ssl
 
